@@ -1,0 +1,82 @@
+{
+  "http.proxySupport": "off",
+  "workbench.colorTheme": "Monokai",
+  "security.workspace.trust.untrustedFiles": "open",
+  "python.defaultInterpreterPath": "C:\\Users\\Philips.pokkatt2\\Wood Projects\\EcoJiva Phase2\\venv-ecojiwa\\Scripts\\python.exe",
+  "git.autofetch": true,
+  "window.zoomLevel": 1,
+  "workbench.colorCustomizations": {
+    "titleBar.activeBackground": "#8ddba1",
+    "titleBar.activeForeground": "#0e0202",
+  },
+  "editor.lineNumbers": "on",
+  "editor.wordWrap": "on",
+  "editor.wordWrapColumn": 80,
+  "autoDocstring.docstringFormat": "google",
+  "autoDocstring.startOnNewLine": true,
+  "[python]": {
+    "editor.formatOnType": true,
+    "editor.defaultFormatter": "ms-python.black-formatter"
+  },
+  "workbench.editorAssociations": {
+    "*.xlsx": "gc-excelviewer-excel-editor"
+  },
+  "terminal.integrated.fontFamily": "CaskaydiaCove Nerd Font Mono",
+  "editor.fontLigatures": true,
+  "better-comments.multilineComments": true,
+  "better-comments.highlightPlainText": false,
+  "better-comments.tags": [
+    {
+      "tag": "!",
+      "color": "#FF2D00",
+      "strikethrough": false,
+      "underline": false,
+      "backgroundColor": "transparent",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "tag": "?",
+      "color": "#3498DB",
+      "strikethrough": false,
+      "underline": false,
+      "backgroundColor": "transparent",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "tag": "//",
+      "color": "#474747",
+      "strikethrough": true,
+      "underline": false,
+      "backgroundColor": "transparent",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "tag": "todo",
+      "color": "#FF8C00",
+      "strikethrough": false,
+      "underline": false,
+      "backgroundColor": "transparent",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "tag": "*",
+      "color": "#98C379",
+      "strikethrough": false,
+      "underline": false,
+      "backgroundColor": "transparent",
+      "bold": false,
+      "italic": false
+    }
+  ],
+  "editor.formatOnSave": false,
+  "settingsSync.ignoredSettings": [
+    "-python.venvPath"
+  ],
+  "editor.fontFamily": "'CaskaydiaCove Nerd Font'",
+  
+
+}
